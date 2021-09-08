@@ -17,16 +17,16 @@ https://usa7.fastcast4u.com/proxy/radiofid?mp=/1
 #EXTINF:-1,RADIO FIDES SANTA CRUZ
 https://usa7.fastcast4u.com/proxy/grflor00?mp=/1
 
-#EXTINF:-1, tvg-logo="https://cdn.bolivia.com/canales/aclo-5216.jpg",RADIO ACLO SUCRE
+#EXTINF:-1,RADIO ACLO SUCRE
 https://cloudstream2030.conectarhosting.com/8192/stream
 
-#EXTINF:-1, tvg-logo="https://cdn.bolivia.com/canales/aclo-5216.jpg",RADIO ACLO POTOSI
+#EXTINF:-1,RADIO ACLO POTOSI
 https://cloudstream2030.conectarhosting.com/8254/stream
 
-#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pSpqFu7dtH.png",PANAMERICANA1
+#EXTINF:-1,PANAMERICANA1
 https://node-31.zeno.fm/5hfx7xfambruv.aac?rj-ttl=5&rj-tok=AAABe8YnvkMAEhJjFEk1549_1g
 
-#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pSpqFu7dtH.png",PANAMERICANA2
+#EXTINF:-1,PANAMERICANA2
 https://node-31.zeno.fm/pnwpbyfambruv?rj-ttl=5&rj-tok=AAABe8YOj-wA3DdN5yvK81mD6A
 
 #EXTINF:-1,EL DEBER
@@ -53,7 +53,6 @@ https://sonic1.transmissaodigital.com:7058/;
 #EXTINF:-1,PERU CUMBIA RADIO
 http://184.154.28.210:7130/stream/1/
 
-
 #EXTINF:-1,Radio Aclo
 http://212.83.172.247:8072/stream/1/
 
@@ -72,30 +71,28 @@ http://192.99.17.12:6310/;
 #EXTINF:-1,Panamericana 96.1 FM
 http://realserver5.megalink.com:8070/;
 
-
 #EXTINF:-1,Radio Guadalupe 105.1 FM techno
 http://radios.istbolivia.com:9304/stream?1559256348443
 
 
 
-
-EL ALTO-LA PAZ
+#EXTINF:-1,EL ALTO-LA PAZ
 #EXTINF:-1,Radio FM Tropical
 http://stm10.srvstm.com:22668/;?t=1546811205
 #EXTINF:-1,Melodia 99.1 FM
 http://195.154.182.222:27148/stream?t=1546809476
 
-COCHABAMBA
+#EXTINF:-1,COCHABAMBA
 #EXTINF:-1,Mega Djs 89.8 FM
 http://eu8.fastcast4u.com:5682/;?t=1546809059
 #EXTINF:-1,Codigo WM
 http://178.32.57.127:9602/;?t=1546809209
 
-POTOSI UYUNI
+#EXTINF:-1,POTOSI UYUNI
 #EXTINF:-1,Radio Folcl�rica de Uyuni
 http://163.172.8.18:8000/stream?t=1546818929
 
-SUCRE
+#EXTINF:-1,SUCRE
 #EXTINF:-1,Red Chuquisaque�a
 http://zeus.imd.la:8050/;?t=1546813175
 #EXTINF:-1,Radio Sucre 1320 AM
@@ -103,7 +100,7 @@ http://radios.imd.com.bo:7791/;?t=1546727823
 #EXTINF:-1,Radio Sucre 1320 AM
 http://radios.imd.com.bo:7791/;?t=1546727823
 
-PARAGUAY
+#EXTINF:-1,PARAGUAY
 #EXTINF:-1,Manduvira 88.9 FM
 http://stream.aerstreaming.com:7018/;?t=1546813782
 #EXTINF:-1,Serran�a 99.7 FM
@@ -111,7 +108,7 @@ http://audio.upload.com.py:8080/;?t=1546728394
 #EXTINF:-1,Radio Soy
 http://streaming.soymedios.net:9500/stream/?t=1546728546
 
-ARGENTINA
+#EXTINF:-1,ARGENTINA
 #EXTINF:-1,Inthemix Radio
 http://01.solumedia.com.ar:8230/stream?icy=http
 #EXTINF:-1,Resistencia 103.7 MHz
@@ -127,13 +124,9 @@ http://66.70.255.8:9810/;?t=1546817492
 #EXTINF:-1,FM Cumbiandera
 http://63.247.91.178:12150/stream?t=1546817944
 
-CHILE
+#EXTINF:-1,CHILE
 #EXTINF:-1,Radio Festiva
 http://s6.jcwebnew.com:8070/stream?t=1546818258
-
-OFF LINE
-#EXTINF:-1,Radio La Bruja
-http://91.121.220.14:9952/;
 
 #EXTINF:-1,Radio Melodia electronic-pop-top40
 http://live.streamsolutions.gr:8692/;stream/1
@@ -165,7 +158,7 @@ rtsp://hdp2.imd.la/milenium/milenium
 #EXTINF:-1,Somos Fenix
 http://stm6.xcast.com.br:13264/;stream.nsv
 
-CRISTIANOS
+#EXTINF:-1,CRISTIANOS
 #EXTINF:-1,BBN Spanish
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1,CVC La voz Cristian
