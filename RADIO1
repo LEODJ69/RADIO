@@ -2,33 +2,66 @@
 
 
 
-#EXTINF:-1,RADIO-TV ONLINE
+#EXTINF:-1,CORREO DEL SUR
+https://whsh4u-panel.com/proxy/gddupgij?mp=/stream
 
-http://192.168.137.1:8080
+#EXTINF:-1,RADIO FIDES BOLIVIA
+http://192.99.17.12:6358/;
 
-#EXTINF:-1,Radio La Bruja
-http://91.121.220.14:9952/;
+#EXTINF:-1,RADIO LOYOLA F
+http://192.99.17.12:6310/;
 
-#EXTINF:-1,Radio Melodia electronic-pop-top40
-http://live.streamsolutions.gr:8692/;stream/1
+#EXTINF:-1,RADIO FIDES SUCRE CHUQUISACA
+https://usa7.fastcast4u.com/proxy/radiofid?mp=/1
+
+#EXTINF:-1,RADIO FIDES SANTA CRUZ
+https://usa7.fastcast4u.com/proxy/grflor00?mp=/1
+
+#EXTINF:-1, tvg-logo="https://cdn.bolivia.com/canales/aclo-5216.jpg",RADIO ACLO SUCRE
+https://cloudstream2030.conectarhosting.com/8192/stream
+
+#EXTINF:-1, tvg-logo="https://cdn.bolivia.com/canales/aclo-5216.jpg",RADIO ACLO POTOSI
+https://cloudstream2030.conectarhosting.com/8254/stream
+
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pSpqFu7dtH.png",PANAMERICANA1
+https://node-31.zeno.fm/5hfx7xfambruv.aac?rj-ttl=5&rj-tok=AAABe8YnvkMAEhJjFEk1549_1g
+
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pSpqFu7dtH.png",PANAMERICANA2
+https://node-31.zeno.fm/pnwpbyfambruv?rj-ttl=5&rj-tok=AAABe8YOj-wA3DdN5yvK81mD6A
+
+#EXTINF:-1,EL DEBER
+https://services.eldeber.com.bo/live
+
+#EXTINF:-1,CHACALTAYA
+http://stream.servionbolivia.red:9364/stream
+
+#EXTINF:-1,CUMBIA 90s BOLIVIA
+http://emiteradio.com:8223/stream
+
+#EXTINF:-1,RADIO KANTUTA
+http://eu2.serviaudio.com:23128/;
+
+#EXTINF:-1,RADIO EDWIN
+https://node-24.zeno.fm/pdexkzp3ahruv?rj-ttl=5&rj-tok=AAABe8YepmsA1pIziDdIl2svJA
+
+#EXTINF:-1,RADIO MAGO MIX
+https://node-31.zeno.fm/nwzerpfbs8quv?rj-ttl=5&rj-tok=AAABe8YfdhsA4UN0PhqaEljh4Q
+
+#EXTINF:-1,RADIO SILVER MIX
+https://sonic1.transmissaodigital.com:7058/;
+
+#EXTINF:-1,PERU CUMBIA RADIO
+http://184.154.28.210:7130/stream/1/
+
+
+#EXTINF:-1,Radio Aclo
+http://212.83.172.247:8072/stream/1/
 
 #EXTINF:-1,Radio Disney POP
 http://144.217.67.108:9156/;
 
 #EXTINF:-1,Radio Felicidad FM pop
 http://cast.streamingsitios.com:8080/;stream.nsv
-
-#EXTINF:-1,Radio Activa latin
-http://stm6.xcast.com.br:13262/;stream.nsv
-
-#EXTINF:-1,Radio Stereo 97
-http://195.154.182.222:27147/live
-
-#EXTINF:-1,Radio Energy 95.5 electronic-rock-pop-classic-reggaeton-latin
-http://5.135.183.124:9513/stream
-
-#EXTINF:-1,Radio Activa
-http://radioserver1.us:7002/;
 
 #EXTINF:-1,El sonido de la vida
 http://realserver2.megalink.com:8120/;
@@ -39,49 +72,12 @@ http://192.99.17.12:6310/;
 #EXTINF:-1,Panamericana 96.1 FM
 http://realserver5.megalink.com:8070/;
 
-#EXTINF:-1,Radio Aclo
-http://212.83.172.247:8072/stream/1/
-
-#EXTINF:-1,Radio Chacaltaya tropical
-http://stm20.srvstm.com:7274/;stream.nsv
-
-#EXTINF:-1,Radio Kantuta Cumbia
-http://188.165.232.215:23128/;
-
-#EXTINF:-1,Radio La Popular FM Cumbia
-http://stm6.xcast.com.br:11950/;
-
-#EXTINF:-1,Radio Silver Mix Cumbia chicha
-http://142.54.190.6:9588/stream
 
 #EXTINF:-1,Radio Guadalupe 105.1 FM techno
 http://radios.istbolivia.com:9304/stream?1559256348443
 
-#EXTINF:-1,Radio Milenium
-rtsp://hdp2.imd.la/milenium/milenium
 
-#EXTINF:-1,Somos Fenix
-http://stm6.xcast.com.br:13264/;stream.nsv
 
-#EXTINF:-1,RADIOS Bolivia
-
-Cristianos 
-#EXTINF:-1,BBN Spanish
-https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
-#EXTINF:-1,CVC La voz Cristian
-http://108.170.61.114:8240/;stream.nsv
-#EXTINF:-1,Bethel Radio
-http://96.31.83.86:8158/stream
-#EXTINF:-1,Radio Betania 93.7
-http://icecast.radiobetania.com:8000/betania.mp3?t=1546727627
-#EXTINF:-1,Cristo Viene COCHABAMBA
-http://usa1.usastreams.com:8000/cbtsrl?t=1546728157
-#EXTINF:-1,El Sonido de la VIDA 89.3
-http://server.streambolivia.com:9890/;?t=1546809597
-#EXTINF:-1,Bendita trinidad 1540 AM
-http://195.154.182.222:25107/live?t=1546811669
-#EXTINF:-1,La Cruz del Sur ORURO
-http://stm4.srvstm.com:23490/;?t=1546812753
 
 EL ALTO-LA PAZ
 #EXTINF:-1,Radio FM Tropical
@@ -135,6 +131,54 @@ CHILE
 #EXTINF:-1,Radio Festiva
 http://s6.jcwebnew.com:8070/stream?t=1546818258
 
+OFF LINE
+#EXTINF:-1,Radio La Bruja
+http://91.121.220.14:9952/;
 
+#EXTINF:-1,Radio Melodia electronic-pop-top40
+http://live.streamsolutions.gr:8692/;stream/1
 
+#EXTINF:-1,Radio Activa latin
+http://stm6.xcast.com.br:13262/;stream.nsv
 
+#EXTINF:-1,Radio Energy 95.5 electronic-rock-pop-classic-reggaeton-latin
+http://5.135.183.124:9513/stream
+
+#EXTINF:-1,Radio Activa
+http://radioserver1.us:7002/;
+
+#EXTINF:-1,Radio Chacaltaya tropical
+http://stm20.srvstm.com:7274/;stream.nsv
+
+#EXTINF:-1,Radio Kantuta Cumbia
+http://188.165.232.215:23128/;
+
+#EXTINF:-1,Radio La Popular FM Cumbia
+http://stm6.xcast.com.br:11950/;
+
+#EXTINF:-1,Radio Silver Mix Cumbia chicha
+http://142.54.190.6:9588/stream
+
+#EXTINF:-1,Radio Milenium
+rtsp://hdp2.imd.la/milenium/milenium
+
+#EXTINF:-1,Somos Fenix
+http://stm6.xcast.com.br:13264/;stream.nsv
+
+CRISTIANOS
+#EXTINF:-1,BBN Spanish
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1,CVC La voz Cristian
+http://108.170.61.114:8240/;stream.nsv
+#EXTINF:-1,Bethel Radio
+http://96.31.83.86:8158/stream
+#EXTINF:-1,Radio Betania 93.7
+http://icecast.radiobetania.com:8000/betania.mp3?t=1546727627
+#EXTINF:-1,Cristo Viene COCHABAMBA
+http://usa1.usastreams.com:8000/cbtsrl?t=1546728157
+#EXTINF:-1,El Sonido de la VIDA 89.3
+http://server.streambolivia.com:9890/;?t=1546809597
+#EXTINF:-1,Bendita trinidad 1540 AM
+http://195.154.182.222:25107/live?t=1546811669
+#EXTINF:-1,La Cruz del Sur ORURO
+http://stm4.srvstm.com:23490/;?t=15468127537
