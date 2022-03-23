@@ -126,7 +126,10 @@ http://radios.istbolivia.com:9304/stream
 https://whsh4u-panel.com/proxy/gddupgij?mp=/stream
 
 #EXTINF:-1,RADIO GLOBAL
-https://ares.disfrutaenlared.com/6048/stream
+https://ares.disfrutaenlared.com/6048/
+
+#EXTINF:-1,RADIO ENCUENTRO
+https://ares.disfrutaenlared.com:10865/;
 
 #EXTINF:-1,RADIO FIDES BOLIVIA
 http://192.99.17.12:6358/;
